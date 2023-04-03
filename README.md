@@ -1,6 +1,8 @@
 # AppleTV Website Clone(Group Project)
+![image](https://user-images.githubusercontent.com/112753940/229490047-85a8e30f-8452-4989-bb1c-7ec90b328815.png)
 
 This website is a clone of AppleTV which is an OTT media service that offers the media services like Web Series, Movies to viewers.
+Gave a unique name as Smaet TV
 
 Features:
 - Home page with sliding features
